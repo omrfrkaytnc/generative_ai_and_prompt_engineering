@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+openai
+langchain-google-genai
+cohere
+faiss-cpu
+streamlit
+python-dotenv
+llama-index
+pypdf
+chromadb
+beautifulsoup4
+matplotlib
+rank_bm25
